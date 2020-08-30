@@ -1,0 +1,15 @@
+{
+  "name": "03-basesnode",
+  "version": "1.0.0",
+  "description": "Esta es una aplicación de linea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yazmin L. Ortiz",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.4.1"
+  }
+}
